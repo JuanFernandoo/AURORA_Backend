@@ -1,0 +1,6 @@
+  target/
+  tools/out/
+  out/
+  *.class
+  .idea/
+  .vscode/
